@@ -1,8 +1,6 @@
 import java.awt.*;
 import java.awt.event.*;
 import java.security.KeyException;
-//import java.awt.FontMetrics;
-
 import javax.swing.*;
 import java.util.Random;
 
